@@ -30,4 +30,3 @@ jobs:
         with:
           branch: gh-pages
           folder: out
-출처: https://woongtech.tistory.com/entry/깃허브에-개인-블로그-배포하기 [WOONGTECH:티스토리]
